@@ -6,7 +6,8 @@
       {
         "id": "rMcPwqYyz2YiajNwjIiDttSyrnVe_CFWCeSCSuwLbknWIg",
         "accountId": "Dd3BoJ8AgHGnOBcAhdecWcIS4i-vGmAZJDT5KjSftJvD",
-        "puuid": "ZWE229VGxgLP0tIQZYSqRik1o8H7tAI7VtsU1JpVScBkNMcCK4bZWCZ4JzmywyDQdwYVTRKdQyUOCA"
+        "puuid": "ZWE229VGxgLP0tIQZYSqRik1o8H7tAI7VtsU1JpVScBkNMcCK4bZWCZ4JzmywyDQdwYVTRKdQyUOCA",
+        "mainId": true
       }
     ]
   },
@@ -17,7 +18,8 @@
       {
         "id": "Ca_vjWzhjGCAqGNDF7IatrxdPoAWALY8WbJoz0e0Yeidk78",
         "accountId": "jr3fHg-DVp8egEFOz54rYWg_Z8vQDxHFwfKZmpkdAC-vLE0",
-        "puuid": "Cb0E2K5cBqTmbJ1xZl34TVGLb5Urf1GKHTVM5SHStpwFoWRXaqkS7FtZ44DVeqayceMcw5IY1VUhaA"
+        "puuid": "Cb0E2K5cBqTmbJ1xZl34TVGLb5Urf1GKHTVM5SHStpwFoWRXaqkS7FtZ44DVeqayceMcw5IY1VUhaA",
+        "mainId": true
       }
     ]
   },
@@ -29,16 +31,19 @@
         "id": "ZKcPZ-U1hMragY-pJTlyGKmDz7xGMTO4Fcsdd3QQ-a6YKG8",
         "accountId": "Dd3BoJ8AgHGnOBcAhdecWcIS4i-vGmAZJDT5KjSftJvD",
         "puuid": "UhacxfHQk3HrvOgHQCGpzO7Wc8vhwJ0-H-7iFQN8euFljjzRcRYHpDN_w0pVUVWZSSLbqueh9c134Q",
+        "mainId": false
       },
       {
         "id": "vH4d1cSCN40lTAQbJpJ_dwBnv3Xy-JpHQu1ACb7alUgxAj4",
         "accountId": "Hsfipft9FIAhlpKQf8jtB9wHegqMaJC9mZ19PBIll9j6-zFyg4uv_6D1",
         "puuid": "fdwfcEDSpJ35oG6JSvkTrkwhgd4hYqiRBuu3sBCWySEcQuB85o1zoCU9qZ4tNs9SOrQne8gMtWvK3g",
+        "mainId": false
       },
       {
         "id": "RjfVHMsjGwHHnSZLHptSV56FeQMDKD0b0L99odlR-Cb6uJE",
         "accountId": "tk9xIRxo-_D7zEYbEFQKeu0ksFUNVk2DR8hwZHej88VEiJOwLph0HB5H",
-        "puuid": "dSNKShFqQTC7g7lr1h8Q5RnGErHR5NMI2yaMz9MHzXAorL3Z3-xqg3aGcLgZ8EbPm9NZ_9gw8-nXmA"
+        "puuid": "dSNKShFqQTC7g7lr1h8Q5RnGErHR5NMI2yaMz9MHzXAorL3Z3-xqg3aGcLgZ8EbPm9NZ_9gw8-nXmA",
+        "mainId": true
       }
     ]
   },
@@ -49,7 +54,247 @@
       {
         "id": "lr15mOwwKRJU-wq1JMTFDQWG2aJfPlCVthEgwT5dywUI14M",
         "accountId": "Jdh5YYIiy5NDYBzg4a4Sm3dGqNg6ZqFpkbMZESh0--bt3yA",
-        "puuid": "ETQDFxrkhPsCZfssV5pc2cgBDCdxwsf9x8ZHq58vTjvAIlA5zgkwBUKqBrILg9vlaMp0rtmFLP8xmg"
+        "puuid": "ETQDFxrkhPsCZfssV5pc2cgBDCdxwsf9x8ZHq58vTjvAIlA5zgkwBUKqBrILg9vlaMp0rtmFLP8xmg",
+        "mainId": true
+      }
+    ]
+  },
+  {
+    "index": 5,
+    "name": "마린",
+    "accounts": [
+      {
+        "id": "rVfuAmsh0WmHJQuGpZGJuWn2PxKllUsrIzGjuasH7IxhBg",
+        "accountId": "dF04971Sqo0DzP5S8vmf1aOXbVH-NsE56-wBmmM8asbe",
+        "puuid": "t_qsbwwcQyEFwTj3i9URQHBmKnviblJlf0G8qRmhsa86jSoYUDsFVXo0Cgx2T2Q43fB7abkhgSwaTA",
+        "mainId": true
+      }
+    ]
+  },
+  {
+    "index": 6,
+    "name": "괴물쥐",
+    "accounts": [
+      {
+        "id": "cV-QBLMV1hL441CqyNlzj96h8IO8w8GB8DJm_SrPIvulYg",
+        "accountId": "QdMbCPTh0uXN947DlgEqHtwHTnrNtVdWK87PEx6pqR6a",
+        "puuid": "aS-hJUB1s9I2-A2ZioTLWsGzlIuQsT1eveSbDBkRlv5mvCMrqpuZwGkGk6i2IbvKF7AlIVBXks4tWA",
+        "mainId": true
+      },
+      {
+        "id": "y3_sUWc8YeDjfBm_jmZ8OBbbGKdkHcUpRP4YQ6uwo_8mjg",
+        "accountId": "CgtT3xMXB2gKCWFgz8gfc-nBLigjZo2C17uoCxfq-9T7",
+        "puuid": "GKeYOB8OUj2SCgSVuloUaz3VFveqWD4KCpIFd-9fypI50s1wM0vKJXS4SkCMuajotKJLs-0nj9nvBw",
+        "mainId": false
+      }
+    ]
+  },
+  {
+    "index": 7,
+    "name": "김민교",
+    "accounts": [
+      {
+        "id": "4JeWcfHJIFsAPxqnNnmn0kBSs1GdkiCoDA_ZpG3idARRmyE",
+        "accountId": "0YUy0elD24L-jR7uJC1qpoQ943WWEpyT_h36Rl4980jCt3Q",
+        "puuid": "yuN5G6v4nGql4yVjyZ1Z9-OKiKglWZm5wLhIyckosxlIS45YFjjK_08gBQ097jdZ7XGGpkpgyMbg4Q",
+        "mainId": true
+      }
+    ]
+  },
+  {
+    "index": 8,
+    "name": "Madlife",
+    "accounts": [
+      {
+        "id": "z92eOfwXkup6qEu1FyiHuQvz610AiEHhN76WrduxfHn1xg",
+        "accountId": "sz3JcusMz7JN05pOo2jpYlaQVGYYAmn7DGRv8-emxLQZ",
+        "puuid": "zOKPCQe6JZPw6WrjNpRDiWPk1hnJr6ruymzYz0GHzdHGDGLkScJlpFa823fGC-dUOOiUkHWgRWSkhQ",
+        "mainId": true
+      }
+    ]
+  },
+  {
+    "index": 9,
+    "name": "갱승제로",
+    "accounts": [
+      {
+        "id": "5Y3rBcrgGWHkf644UIBwftoQIt1zF5L8JS-BEmRocQZ2fw",
+        "accountId": "yLfS2YeJTNZqsUbLOiIKze2Mcp_M_GbfmB4Tb4uiDeJo",
+        "puuid": "IaRe_I2p_MYjEo71Xq86JGUZUnnCoWJwvgPARKWCQqfB2ZHtfNWuOmivtBnLH2zqrl5y3HjrGHwt9w",
+        "mainId": true
+      }
+    ]
+  },
+  {
+    "index": 10,
+    "name": "캬하하",
+    "accounts": [
+      {
+        "id": "Mm50PRoTKpNK-Ppn1VAKIa4r0Pr2DpoInlfTN_N-PsuaWw",
+        "accountId": "Gxk4W6Far4ng11z8FHuHEb7zn40v36RcRoFKtPDNvks",
+        "puuid": "ILB16IFWPh519ZbG_CATQfdh4yRWWfneVh0pWBUALpHg4MtJPGy-LDN9QEiF9d26Z1EybzAUEjnhVg",
+        "mainId": true
+      },
+      {
+        "id": "9pulQGj6R4AvkO486ofDCb2euyDsfN9ESlzc139AD7Pw7FNx",
+        "accountId": "GuTtSyv3ZP8vJh3jfmjC1MgI_QG5qHJGRuMjUQfbTXyWOYFBn1kE_NAf",
+        "puuid": "aNhb4a4mUU9RF5sgYTPQ7PbXi4dZSTLoYEA5kl8PTa8ShpsIqSl3J9D_wdR4LBSoWI7y-Dcs9F6hNA",
+        "mainId": false
+      }
+    ]
+  },
+  {
+    "index": 11,
+    "name": "감스트",
+    "accounts": [
+      {
+        "id": "hqXH0MEF19ozNmrmMCqJozH-R-t6gSCdBoD4UXDLOtHKdR4",
+        "accountId": "Ke450_fBeh0acJ2yRyH5oL97LKIQaNnlBTaO0ANmX2_9R5Y",
+        "puuid": "ml-ni32110QrC8eUpFbEb9T6B817Aef3ABgO1EkeU-u5riou-qPVX4jZl6cofuAY6I91FluR5tZbRg",
+        "mainId": true
+      }
+    ]
+  },
+  {
+    "index": 12,
+    "name": "순당무",
+    "accounts": [
+      {
+        "id": "_hGiYARk3Kcg113poU8-8Mb9NTeK4F7eVzrRpXZjDYX178c",
+        "accountId": "T4cm_8-lAcp3pOnyL6VuJlhTaHWHajU3NFTOkd8FblYj0-Q",
+        "puuid": "IwKa453BTK_mMKdomUFq78OT98E5GmjgA6naexFCcjK2voJifpYSFf_vCjjMCLAHYpDgiR2KkDKO-w",
+        "mainId": true
+      }
+    ]
+  },
+  {
+    "index": 13,
+    "name": "과로사",
+    "accounts": [
+      {
+        "id": "2e_GJ_nhKTavum-LgVfg_EUZGbAWbk-y2UiKL1K01cxeu-0",
+        "accountId": "5H9MyJ_sICRachq4x-Pp5L-BKZZ9H_HCMZzhpBnnPjaQExTSF8rMlI7J",
+        "puuid": "FQLendMWbavjYsUfIMG6RR0yi3OVBTX_VOWpcw2UPWSiboBrnDBpvNw005lyxkvM6Y0LZf7raaGa3A",
+        "mainId": true
+      }
+    ]
+  },
+  {
+    "index": 14,
+    "name": "Destiny",
+    "accounts": [
+      {
+        "id": "ZF1OhX-2wErvN7QYHZDom9M82ILsDymEyjdZ5gzCbLFgylE",
+        "accountId": "qh4632iQqPD520d6NEr1uBYo2Za0bGDw72JUwea0iCAO7yc",
+        "puuid": "Eymyff8E0ig8RZd4CDgIHWzcLivKo4jjkE2sp20cFlTX8QV7FOjSBipDnwyAJjD8SA4H6dV7Y14A1A",
+        "mainId": true
+      }
+    ]
+  },
+  {
+    "index": 15,
+    "name": "지수소녀",
+    "accounts": [
+      {
+        "id": "bEJj7oc1ZKdgy_uoKLuAvVJtaRVRhzBMA9rz93fIZxcgieI",
+        "accountId": "b3-mlmBVbA3aaQgoj1WL4WYcORd7nvnQuv04ltTK6V72eQo",
+        "puuid": "uVgnIoWoJd0NlqNwsn__BHWKpSkAiMpCyVe4r7WmlSgQKGmsh7fzrYbLZRsgGMzZjp1nDuaxOSFGQQ",
+        "mainId": true
+      },
+      {
+        "id": "kUJP9L9WVIiVf8k7FhnY4pv-3pOLq5-1zsdPaB7jwsoZXag",
+        "accountId": "pZ_rQJHUG5f6BeEob7VsIfc17fZ3XmOP9nNntJ7xFrWG-xw",
+        "puuid": "r1187DJLiVFia1QD_GxXOwFMdsTDKNQ1Jm1NugId5BHW284AT0FG-ZHrnWClibXkmsTEBqR7XIjkeQ",
+        "mainId": false
+      }
+    ]
+  },
+  {
+    "index": 16,
+    "name": "CloudTemplar",
+    "accounts": [
+      {
+        "id": "_cC1QitwanztMIGB0TCFflZLrni7b77oS-3z8VjrbR-O-w",
+        "accountId": "FDsWbQF7EenyyFrxiFeEMCNBBIu83GI5svbRyLR8mRFv",
+        "puuid": "XXvtyTvOLWU7qbfMBWaA9cGTNQ6dS1jlVViDmG--sVB9KPBC-RWskvdH1uD7atDWGKBLdHfh-mejrg",
+        "mainId": true
+      }
+    ]
+  },
+  {
+    "index": 15,
+    "name": "막눈",
+    "accounts": [
+      {
+        "id": "sIR1kfr91YYXNTviDRjd-2aok_-Wuw-kGWQjFxJtLx06rQ",
+        "accountId": "tgYkTSNE6UZ_iJkwdhFem-MTLvIXb4ndJz0GFZ12Mzql",
+        "puuid": "yLOQ22s_uVhh8oSsCTDje8ZQC_EEZuf88RFwsSDmYJ6caNqP4dR4THSMmIkGkuX3vEAESImi6kdx5A",
+        "mainId": true
+      }
+    ]
+  },
+  {
+    "index": 16,
+    "name": "나는상윤",
+    "accounts": [
+      {
+        "id": "YawWFXd1wfiPN6v0yDV5bA7CeLwRGMZejKXuzV7NduSgqA",
+        "accountId": "CaQZ7hFcorrd_-rlB81edsHDLXyPfOUdNk6mH2KpshHD",
+        "puuid": "xxxCahAKkPiCSCM9HRZ0b64cgTRc6skhqIPM9lgi2eeNM1W30f7tUYryyUGFmxojJqpZyt-xdSvicQ",
+        "mainId": true
+      },
+      {
+        "id": "Cd5YIxZxDoht1ZB_6UU_7O5jsjUBZ9MDYcxCAzCENLoP5Dg",
+        "accountId": "ER-3eNGFh4d2TLmr75BnDbBPnvyj9u6ohffrDNaSaVkJ9Mo",
+        "puuid": "O5kj1zJ5UEaAkIVFgc3qHD__H-TXPmNB_PFEklG4uVAl6Qal5TdUIWz0blHdcJ44iWNLTWmwKNs3xA",
+        "mainId": false
+      }
+    ]
+  },
+  {
+    "index": 17,
+    "name": "김레인",
+    "accounts": [
+      {
+        "id": "hRXZ14eOlPAp3UMyY-qAeIwROyNja6SteoPKBMSqEy3T3g",
+        "accountId": "Jxd19ufdCVVJChXLlW3t2ET-WupHhBIU7xGhHDnJQ3HS",
+        "puuid": "UIuwPs-iw6LhD8R9KD-_KTCOk9ZZ0e8a1keh1f69nOfiOnmoXlsyjkt4mj1JUVqXGjrln2p__x8o_A",
+        "mainId": true
+      }
+    ]
+  },
+  {
+    "index": 18,
+    "name": "금똥왁왁",
+    "accounts": [
+      {
+        "id": "f6EYIQOELK2nB0SV8ueL5pTv7zXOI4dX6pFWnCZSwf_rK5c",
+        "accountId": "P_JuAEURrHe0hR5wTaOFxkWlKAEZVUsbNvL5ltKd8DeM6LI",
+        "puuid": "tsaS7hL-REzFPMEu9O2hWqwvR5omvEFU3gaKZVaEoelo5RRpyQTCvxC-x89xjrN990JWwNd_wN47gg"
+      }
+    ]
+  },
+  {
+    "index": 19,
+    "name": "개리형",
+    "accounts": [
+      {
+        "id": "v3AceBHjQ9ncwCSObBO2K5cT5icxyCT1Bz0Nkh3b2ZFbSw",
+        "accountId": "M-mkKO_kv2ypWLwJX7OJWTxIbqO3dzEOQ_H-L29rozhL",
+        "puuid": "rWW915DWe3umufZGEXRXsF4yfqsMXWcqM4BGoUvvdZNpLhmBaw62yyZhItq1v48CjXBh-N-C8TTMGQ",
+        "mainId": true
+      }
+    ]
+  },
+  {
+    "index": 20,
+    "name": "울부짖는마오카이",
+    "accounts": [
+      {
+        "id": "n2BIbTrvbIeBbrceOlUrWRso8I_4agmCzUuKtEkv-UhjPHk",
+        "accountId": "x2MLAvYysMwPW7vCe4WWl3Ds4UIJl0CS_jof0MTlCzE0jEUFrR8atkrv",
+        "puuid": "dMt8S7P9d4YyyrE512B38PT0Cjp-EfIialn0jkKmBcNooJluGbDe96kIuX__Y7ZRub0vN772pHP6nQ",
+        "mainId": true
       }
     ]
   }
