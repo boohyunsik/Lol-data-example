@@ -21,7 +21,6 @@ def analysis_detail(game_id, user_id):
     for participant in match_detail['participants']:
         if participant['teamId'] == team_id:
             champion = lolService.get_champion_data_by_id(participant['championId'])
-            print(champion)
             if champion['id'] in result:
                 result[champion['id']] += 1
             else:
@@ -33,6 +32,7 @@ def analysis_detail(game_id, user_id):
 
 if __name__ == '__main__':
     user = lolService.get_summoner_info("justlikethatkr")
+    print(user)
 
     start_index = 0
     end_index = 99

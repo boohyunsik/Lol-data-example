@@ -10,8 +10,9 @@ class LolService:
             'Accept-Charset': 'application/x-www-form-urlencoded; charset=UTF-8',
             'X-Riot-Token': 'RGAPI-bee17f34-008d-4fd5-afe1-e7b6ae0c093f'
         }
-        self.CHAMPION_DATA_DRAGON_URL = "http://ddragon.leagueoflegends.com/cdn/10.16.1/data/en_US/champion.json"
-        self.champion_raw_data = json.loads(requests.get(self.CHAMPION_DATA_DRAGON_URL).text)
+        # self.CHAMPION_DATA_DRAGON_URL = "http://ddragon.leagueoflegends.com/cdn/10.16.1/data/en_US/champion.json"
+        # self.champion_raw_data = json.loads(requests.get(self.CHAMPION_DATA_DRAGON_URL).text)
+        self.champion_raw_data = json.load(open("asset/champion.json"))
 
     # Get the summary of summoner information by name
     def get_summoner_info(self, name):
