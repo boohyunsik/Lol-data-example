@@ -10,9 +10,6 @@ class LolService:
             'Accept-Charset': 'application/x-www-form-urlencoded; charset=UTF-8',
             'X-Riot-Token': 'RGAPI-bee17f34-008d-4fd5-afe1-e7b6ae0c093f'
         }
-        # self.CHAMPION_DATA_DRAGON_URL = "http://ddragon.leagueoflegends.com/cdn/10.16.1/data/en_US/champion.json"
-        # self.champion_raw_data = json.loads(requests.get(self.CHAMPION_DATA_DRAGON_URL).text)
-        self.champion_raw_data = json.load(open("asset/champion.json"))
 
     # Get the summary of summoner information by name
     def get_summoner_info(self, name):
@@ -46,11 +43,3 @@ class LolService:
         for match in match_summaries:
             match_detail = self.get_match_detail_info(match['gameId'])
             print(match_detail)
-
-    def get_champion_data_by_id(self, champion_key):
-        raw_data = self.champion_raw_data
-        data_list = raw_data['data']
-        for data in data_list:
-            champion = data_list[data]
-            if champion['key'] == str(champion_key):
-                return champion
